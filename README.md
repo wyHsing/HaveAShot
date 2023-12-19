@@ -1,7 +1,9 @@
 # HaveAShot
- UE5 Game
+ 
  12.18.23
+ 
  Using Git LFS on Unreal Contents Files
+ 
  Steps:
  1. Remove choosed files from repo first
  2. Open Git Bash
