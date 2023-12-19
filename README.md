@@ -10,6 +10,6 @@
  4. Command: git lfs track "Content/**"
  5. Now the git.attribute is changed
  6. Command: git add .
- 7. Command: git commit -m "######Commit Description"
+ 7. Command: git commit -m "Commit Description"
  8. Command: git push
  
